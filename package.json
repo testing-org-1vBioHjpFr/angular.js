@@ -60,7 +60,6 @@
     "jasmine-core": "^2.8.0",
     "jasmine-node": "^2.0.0",
     "jasmine-reporters": "^2.2.0",
-    "jquery": "2.1.0",
     "jquery-2.1": "npm:jquery@2.1.4",
     "jquery-2.2": "npm:jquery@2.2.4",
     "karma": "4.4.1",
@@ -100,7 +99,9 @@
     "sorted-object": "^1.0.0",
     "stringmap": "^0.2.2"
   },
-  "dependencies": {},
+  "dependencies": {
+      "jquery": "2.1.1",
+  },
   "resolutions": {
     "//1": "`natives@1.1.0` does not work with Node.js 10.x on Windows 10",
     "//2": "(E.g. see https://github.com/gulpjs/gulp/issues/2162 and https://github.com/nodejs/node/issues/25132.)",
