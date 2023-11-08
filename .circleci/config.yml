@@ -28,7 +28,7 @@ executors:
         type: string
         default: medium
     docker:
-      - image: circleci/node:14.16.1@sha256:b094e85848b43209ca83d9bb114d406fe62c75cb73b18c9d8eb1a9c6462c97d4
+      - image: circleci/node:14.18.2@sha256:6f6b36595d00d61545f502d191c459a52e8f3d55a3607f4e2e2dd8f15a01c9ad
     resource_class: << parameters.resource_class >>
     working_directory: ~/ng
   cloud-sdk:
