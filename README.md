@@ -10,7 +10,7 @@ the browser how to do dependency injection and inversion of control.
 
 It also helps with server-side communication, taming async callbacks with promises and deferred objects,
 and it makes client-side navigation and deep linking with hashbang urls or HTML5 pushState a
-piece of cake. Best of all? It makes development fun!
+piece of cake. Best of all? It makes development fun!!!
 
 --------------------
 
